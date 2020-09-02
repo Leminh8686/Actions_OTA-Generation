@@ -9,8 +9,8 @@ on:
     branches: [ master ]
 
 env:
-  OLD_ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_casuarina_casuarinaopen/b17aa2972bb13f513409e051b1cc523e1cbc32a2.zip.zip
-  NEW_ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_casuarina_casuarinaopen/11522d445c92f1402ea381c5515ecd0cda68701b.zip.zip
+  OLD_ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_casuarina_casuarinaopen/b17aa2972bb13f513409e051b1cc523e1cbc32a2.zip
+  NEW_ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_casuarina_casuarinaopen/11522d445c92f1402ea381c5515ecd0cda68701b.zip
 
 jobs:
   build:
